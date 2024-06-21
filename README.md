@@ -5,13 +5,13 @@ Assignment 6
 Name: Kat
 
 Overview:
-The name of my language is Kat, short for Kathleen, my girlfriend whom I am designing this language for. The purpose of this language is to make programming easier for cat-lovers and for her. 
+The name of my language is Kat, short for Kathleen, my best friend whom I am designing this language for. The purpose of this language is to make programming easier for cat-lovers and for her. 
 
 Purpose:
 To make programming easier and “cuter” in Kat’s words.
 
 Target Domain:
-My girlfriend is the target domain who I want to design this language for. She absolutely hates programming, but loves cats. So, why not combine those 2 aspects, to turn something she hates, into something more palatable to her.
+My best friend is the target domain who I want to design this language for. She absolutely hates programming, but loves cats. So, why not combine those 2 aspects, to turn something she hates, into something more palatable to her.
 
 Design:
 Syntax:
